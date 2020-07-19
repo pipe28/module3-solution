@@ -49,3 +49,9 @@ h3 {
 .navbar-collapse.in {
     overflow-y: unset;
 }
+
+@media (max-width: 767px) {
+    #contenido {
+        padding-right: 0px;
+    }
+}
