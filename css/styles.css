@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    color: teal;
+}
+
+h3 {
+    text-align: center;
+    color: tomato;
+}
+
+#contenido {
+    margin-bottom: 50px;
+    padding-left: 0px;
+    padding-right: 30px;
+}
+#contenido1 {
+    background-color: violet;
+}
+#contenido2 {
+    background-color: lightcoral;
+}
+#contenido2 h3{
+    color: blue;
+}
+#contenido1 h3{
+    color: lightgreen;
+}
+
+#contenido3 {
+    background-color: lightgreen;
+}
+
+.col-xs-12{
+    margin-bottom: 15px;
+}
+
+#lista{
+    margin-top: 50px;
+    
+}
+#lista a {
+    text-align: center;
+    color: white;
+}
+#lista a:hover {
+    background-color: lightskyblue;
+}
+
+.navbar-collapse.in {
+    overflow-y: unset;
+}
